@@ -57,7 +57,7 @@ dataset.tail()
 
 ## Output:
 ![output 1](.\output1.PNG)
-![Linear regression model for predicting the marks scored](.\output2.PNG)
+![output 2](.\output2.PNG)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.

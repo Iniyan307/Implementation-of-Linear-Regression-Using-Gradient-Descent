@@ -60,7 +60,7 @@ plt.ylabel("loss")
 ```
 
 ## Output:
-![output 1](.\output1.png)
+![output 1](.\MachineLearning\Implementation-of-Linear-Regression-Using-Gradient-Descent\output1.png)
 ![output 2](.\output2.PNG)
 
 ## Result:

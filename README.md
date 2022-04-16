@@ -60,8 +60,8 @@ plt.ylabel("loss")
 ```
 
 ## Output:
-![output 1](.\MachineLearning\Implementation-of-Linear-Regression-Using-Gradient-Descent\output1.png)
-![output 2](.\output2.PNG)
+![output 1](./output1.PNG)
+![output 2](./output2.PNG)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
